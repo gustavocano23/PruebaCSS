@@ -1,0 +1,16 @@
+div.contenedor p {
+
+}
+
+.lista li:first-child:hover {
+    background-color: green;
+
+}
+
+div > h1.titulo{
+
+}
+
+a[href$=".pdf"] {
+    
+}
